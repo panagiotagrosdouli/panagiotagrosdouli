@@ -34,8 +34,7 @@ https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-En
 
 Research project on trajectory prediction of vulnerable road users for intelligent transportation systems and autonomous driving applications.
 
-Repository:
-https://github.com/PanagiotaGr/pc-fmcw-vru-framework
+Repository:-in progress
 
 ### Risk-Aware Return-to-Home Policy for UAVs
 
