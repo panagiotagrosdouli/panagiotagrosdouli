@@ -1,59 +1,87 @@
 # Panagiota Grosdouli
 
-### Electrical & Computer Engineering Student | Robotics, Autonomous Systems & Machine Learning
+**Electrical & Computer Engineering Student | Robotics & Autonomous Systems**
 
-Focused on robotics, autonomous navigation, machine learning, and decision-making under uncertainty.
+I am an Electrical & Computer Engineering student with research interests in robotics, autonomous systems, machine learning, and autonomous driving.
 
-Currently conducting diploma thesis research on trajectory prediction of vulnerable road users for autonomous driving applications, with a focus on safe and intelligent autonomous systems operating in dynamic environments.
+My current research focuses on trajectory prediction of vulnerable road users (VRUs) for autonomous driving, with an emphasis on uncertainty-aware prediction and decision-making in dynamic environments.
+
+---
 
 ## Research Interests
 
-- Autonomous Navigation
 - Robotics
 - Autonomous Systems
+- Autonomous Navigation
+- Autonomous Driving
 - Machine Learning
 - Robot Learning
-- Autonomous Driving
-- SLAM & Localization
 - Motion Planning
+- SLAM & Localization
 - Computer Vision
 - Trajectory Prediction
 - Decision Making Under Uncertainty
-- Safe Autonomy
+
+---
 
 ## Selected Projects
 
 ### DynNav – Dynamic Navigation & Rerouting in Unknown Environments
 
-ROS2-based autonomous navigation research platform integrating uncertainty-aware planning, risk-sensitive decision making, exploration, connectivity-aware navigation, and security monitoring.
+A ROS 2 research platform for autonomous robot navigation in unknown environments, integrating:
 
-Repository:
-https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments
+- Uncertainty-aware planning
+- Risk-sensitive decision making
+- Autonomous exploration
+- Connectivity-aware navigation
+- Security monitoring
 
-### VRU Trajectory Prediction Framework
+**Repository**  
+🔗 https://github.com/PanagiotaGr/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments
 
-Research project on trajectory prediction of vulnerable road users for intelligent transportation systems and autonomous driving applications.
+---
 
-Repository:-in progress
+### VRU Trajectory Prediction Framework *(In Progress)*
+
+Research framework for trajectory prediction of pedestrians and cyclists in autonomous driving scenarios using machine learning methods.
+
+**Repository**  
+Coming soon.
+
+---
 
 ### Risk-Aware Return-to-Home Policy for UAVs
 
-Autonomous return-to-home planning under battery uncertainty and wind disturbances using risk-aware decision-making strategies.
+Research project on autonomous UAV return planning under battery uncertainty and wind disturbances using risk-aware decision-making.
 
-Repository:
-https://github.com/PanagiotaGr/Risk-Aware-Return-to-Home-Policy-for-UAVs-under-Battery-Uncertainty-and-Wind-Disturbances
+**Repository**  
+🔗 https://github.com/PanagiotaGr/Risk-Aware-Return-to-Home-Policy-for-UAVs-under-Battery-Uncertainty-and-Wind-Disturbances
+
+---
 
 ### Formula 1 AI Forecasting Platform
 
-Machine learning-driven race intelligence platform combining telemetry analytics, probabilistic modelling, Monte Carlo simulation, strategy optimization, and decision-support systems.
+Machine learning framework for race intelligence, probabilistic forecasting, Monte Carlo simulation, and strategy optimization.
 
-Repository:
-https://github.com/PanagiotaGr/formula1-race-simulation
+**Repository**  
+🔗 https://github.com/PanagiotaGr/formula1-race-simulation
+
+---
+
+## Current Focus
+
+- Robotics
+- Autonomous Navigation
+- Trajectory Prediction
+- Decision Making Under Uncertainty
+- Machine Learning for Autonomous Systems
+
+---
 
 ## Links
 
-Portfolio:
+ **Portfolio**  
 https://panagiota-research-portfolio.vercel.app/
 
-LinkedIn:
-https://www.linkedin.com/in/panagiota-grosdouli
+ **LinkedIn**  
+https://www.linkedin.com/in/panagiota-grosdouli/
