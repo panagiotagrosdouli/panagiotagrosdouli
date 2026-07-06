@@ -1,51 +1,40 @@
 # Panagiota Grosdouli
 
-**Electrical & Computer Engineering Student | Robotics & Autonomous Systems**
-
-I am an Electrical & Computer Engineering student with research interests in robotics, autonomous systems, machine learning, and autonomous driving.
-
-My current research focuses on trajectory prediction of vulnerable road users (VRUs) for autonomous driving, with an emphasis on uncertainty-aware prediction and decision-making in dynamic environments.
-
----
+Electrical & Computer Engineer — Robotics, Autonomous Navigation, and Computer Vision
 
 ## Research Interests
 
-- Robotics
-- Autonomous Systems
-- Autonomous Navigation
-- Autonomous Driving
-- Machine Learning
-- Robot Learning
-- Motion Planning
-- SLAM & Localization
-- Computer Vision
-- Trajectory Prediction
-- Decision Making Under Uncertainty
+- Autonomous navigation and motion planning under uncertainty
+- Robot perception and trajectory prediction
+- SLAM and localization
+- Risk-aware and uncertainty-aware decision-making
+- Machine learning for autonomous systems
+- Human-aware navigation in dynamic environments
 
----
+## About
 
+I am an Electrical & Computer Engineering student at the Democritus University of Thrace, working at the intersection of robotics, perception, and autonomous decision-making. My current research addresses trajectory prediction of vulnerable road users for autonomous driving, with a focus on uncertainty quantification in dynamic environments. I am interested in developing navigation and perception systems that reason explicitly about risk and uncertainty rather than relying on point-estimate predictions. My work combines classical robotics methods with learning-based approaches, implemented and evaluated in ROS 2.
 
-### VRU Trajectory Prediction Framework *(In Progress)*
+## Selected Research Projects
 
-Research framework for trajectory prediction of pedestrians and cyclists in autonomous driving scenarios using machine learning methods.
+**DynNav — Dynamic Navigation and Rerouting in Unknown Environments**
+Investigates uncertainty-aware, risk-sensitive replanning for autonomous robot navigation in previously unmapped environments.
+`ROS 2` `Python` `Motion Planning` `Risk-Aware Decision-Making`
 
-**Repository**  
-Coming soon.
+**VRU Trajectory Prediction Framework** *(in progress)*
+Studies trajectory prediction of pedestrians and cyclists for autonomous driving, with emphasis on uncertainty-aware model outputs.
+`Python` `Deep Learning` `Trajectory Prediction`
 
-## Current Focus
+**Risk-Aware Return-to-Home Policy for UAVs**
+Addresses autonomous UAV return planning under battery uncertainty and wind disturbance using risk-sensitive decision-making.
+`Python` `UAV Navigation` `Decision Theory Under Uncertainty`
 
-- Robotics
-- Autonomous Navigation
-- Trajectory Prediction
-- Decision Making Under Uncertainty
-- Machine Learning for Autonomous Systems
+## Education
 
----
+Electrical & Computer Engineering
+Democritus University of Thrace (DUTH), Greece
 
-## Links
+## Contact
 
- **Portfolio**  
-https://panagiota-research-portfolio.vercel.app/
-
- **LinkedIn**  
-https://www.linkedin.com/in/panagiota-grosdouli/
+GitHub: [github.com/panagiotagrosdouli](https://github.com/panagiotagrosdouli)
+LinkedIn: [linkedin.com/in/panagiota-grosdouli](https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/)
