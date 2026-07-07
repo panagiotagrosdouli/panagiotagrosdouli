@@ -1,40 +1,124 @@
 # Panagiota Grosdouli
 
-Electrical & Computer Engineer — Robotics, Autonomous Navigation, and Computer Vision
+Electrical and Computer Engineering  
+Democritus University of Thrace
 
-## Research Interests
+## Research
 
-- Autonomous navigation and motion planning under uncertainty
-- Robot perception and trajectory prediction
-- SLAM and localization
-- Risk-aware and uncertainty-aware decision-making
-- Machine learning for autonomous systems
-- Human-aware navigation in dynamic environments
+My research interests lie in robot perception, computer vision, and autonomous systems, with a particular focus on enabling autonomous agents to perceive, predict, and safely interact with dynamic environments.
 
-## About
+My current work investigates trajectory prediction of vulnerable road users at intelligent intersections for autonomous driving applications. More broadly, I am interested in uncertainty-aware perception, probabilistic prediction, visual-inertial navigation, and risk-aware decision making for autonomous robots.
 
-I am an Electrical & Computer Engineering student at the Democritus University of Thrace, working at the intersection of robotics, perception, and autonomous decision-making. My current research addresses trajectory prediction of vulnerable road users for autonomous driving, with a focus on uncertainty quantification in dynamic environments. I am interested in developing navigation and perception systems that reason explicitly about risk and uncertainty rather than relying on point-estimate predictions. My work combines classical robotics methods with learning-based approaches, implemented and evaluated in ROS 2.
+---
+
+## Current Research
+
+### Diploma Thesis
+
+**Trajectory Prediction of Vulnerable Road Users at Smart Intersections for Road Safety and Autonomous Driving Applications**
+
+The objective of my diploma thesis is to improve the prediction of pedestrian and cyclist motion in complex urban environments where uncertainty plays a central role in safe autonomous navigation.
+
+The research explores perception-driven trajectory prediction methods capable of supporting decision making for intelligent transportation systems and autonomous vehicles operating in safety-critical scenarios.
+
+---
+
+## Research Vision
+
+Reliable autonomy depends on more than accurate perception. Autonomous systems must reason about uncertainty, anticipate future interactions, and make decisions that remain safe under incomplete information.
+
+My long-term research goal is to develop probabilistic perception and prediction methods that enable autonomous robots to operate safely in complex, dynamic environments.
+
+---
 
 ## Selected Research Projects
 
-**DynNav — Dynamic Navigation and Rerouting in Unknown Environments**
-Investigates uncertainty-aware, risk-sensitive replanning for autonomous robot navigation in previously unmapped environments.
-`ROS 2` `Python` `Motion Planning` `Risk-Aware Decision-Making`
+### SafeCrossAI
 
-**VRU Trajectory Prediction Framework** *(in progress)*
-Studies trajectory prediction of pedestrians and cyclists for autonomous driving, with emphasis on uncertainty-aware model outputs.
-`Python` `Deep Learning` `Trajectory Prediction`
+Research platform for perception and trajectory prediction of vulnerable road users at intelligent intersections.
 
-**Risk-Aware Return-to-Home Policy for UAVs**
-Addresses autonomous UAV return planning under battery uncertainty and wind disturbance using risk-sensitive decision-making.
-`Python` `UAV Navigation` `Decision Theory Under Uncertainty`
+Focus areas:
 
-## Education
+- trajectory prediction
+- uncertainty estimation
+- road user interaction modelling
+- autonomous driving
 
-Electrical & Computer Engineering
-Democritus University of Thrace (DUTH), Greece
+---
+
+### DynNav
+
+Research platform for uncertainty-aware autonomous navigation.
+
+Current research directions include:
+
+- probabilistic navigation
+- perception-aware planning
+- adaptive navigation under uncertainty
+
+---
+
+### Visual-Inertial Localization
+
+Experimental work on robust localization through visual-inertial sensor fusion under challenging operating conditions.
+
+Topics include:
+
+- visual odometry
+- inertial fusion
+- localization robustness
+
+---
+
+## Research Interests
+
+- Robot Perception
+- Computer Vision
+- Autonomous Navigation
+- Trajectory Prediction
+- Visual-Inertial Navigation
+- SLAM
+- Probabilistic Robotics
+- Uncertainty Estimation
+- Risk-aware Decision Making
+- Autonomous Driving
+
+---
+
+## Technical Expertise
+
+Languages
+
+- Python
+- C++
+- MATLAB
+
+Frameworks
+
+- PyTorch
+- ROS2
+- OpenCV
+
+Tools
+
+- Linux
+- Docker
+- Git
+- Gazebo
+- Isaac Sim
+
+---
+
+## Publications
+
+Publications will be added here as research progresses.
+
+---
 
 ## Contact
 
-GitHub: [github.com/panagiotagrosdouli](https://github.com/panagiotagrosdouli)
-LinkedIn: [linkedin.com/in/panagiota-grosdouli](https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/)
+LinkedIn
+
+Google Scholar (when available)
+
+Email
