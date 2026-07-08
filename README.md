@@ -1,41 +1,41 @@
 # Panagiota Grosdouli
 
-Electrical and Computer Engineering student at Democritus University of Thrace, focusing on artificial intelligence, robotics, autonomous systems, computer vision, uncertainty-aware perception, and safety-aware intelligent mobility.
+Electrical and Computer Engineering student at Democritus University of Thrace, working on robotics, computer vision, autonomous systems, uncertainty-aware perception, and safety-aware intelligent mobility.
 
-My work explores how autonomous systems can perceive uncertain environments, estimate risk, diagnose failure modes, and make safer decisions in robotics, smart transportation, and human-centered AI applications.
+My work focuses on how autonomous systems can perceive uncertain environments, estimate risk, monitor their own reliability, and make safer decisions in robotics and intelligent transportation settings.
 
-
+## Research Direction
 
 I am building a research portfolio around **robust, uncertainty-aware autonomy for robots operating in complex and partially observed environments**.
 
-The central research theme connecting my projects is:
+A question connecting several of my projects is:
 
-> How can autonomous robots become more reliable under uncertainty by combining perception, state estimation, risk-aware planning, failure diagnosis, and safety monitoring?
+> How can autonomous robots improve reliability under uncertainty by combining perception, state estimation, risk-aware planning, failure diagnosis, and safety monitoring?
 
 This direction connects mobile robot navigation, visual-inertial odometry, SLAM, sensor fusion, vulnerable road user safety, and intelligent mobility systems.
 
 ## Core Research Areas
 
-- Autonomous navigation and robotic planning
+- Robotic vision and perception
 - Visual-inertial odometry and SLAM
 - Uncertainty-aware sensor fusion
 - Risk-sensitive motion planning
-- Failure diagnosis and self-healing perception
-- Computer vision and semantic scene understanding
+- Failure diagnosis and reliability monitoring
+- Autonomous navigation and replanning
 - Multi-agent trajectory prediction
 - Safety-aware AI for vulnerable road users
 
 ## Selected Robotics and AI Research Projects
 
 ### [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)
-**Self-Healing Intelligent Estimation and Localization for Degradation-aware Visual-Inertial Odometry.**  
-A PhD-level research prototype studying whether VIO systems can monitor degradation, diagnose likely failure causes, and select recovery actions before localization failure.
+Self-Healing Intelligent Estimation and Localization for Degradation-aware Visual-Inertial Odometry.  
+A research prototype studying whether VIO systems can monitor degradation, infer likely failure causes, and select recovery actions before localization failure.
 
 ### [Adaptive Multi-Modal SLAM with Uncertainty-Aware Sensor Fusion](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)
 Research framework for adaptive SLAM under perceptual degradation, combining visual, inertial, and event-based sensing with uncertainty-aware fusion and robustness evaluation.
 
 ### [DynNav: Dynamic Navigation Rerouting in Unknown Environments](https://github.com/panagiotagrosdouli/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)
-Research-oriented navigation framework for uncertainty-aware, risk-sensitive planning in previously unmapped environments. The project focuses on belief-aware planning, CVaR-style risk reasoning, returnability constraints, and safety monitoring for mobile robots.
+Navigation research framework for uncertainty-aware, risk-sensitive planning in previously unmapped environments. The project focuses on belief-aware planning, risk reasoning, returnability constraints, and safety monitoring for mobile robots.
 
 ### [Uncertainty-Aware Navigation](https://github.com/panagiotagrosdouli/uncertainty-aware-navigation)
 Focused research repository on risk-aware mobile robot navigation under map uncertainty, designed around reproducible experiments, baseline comparisons, and safety-relevant metrics.
@@ -51,7 +51,7 @@ A Next.js, React, TypeScript, and Tailwind CSS academic portfolio website presen
 
 ## Research Portfolio Map
 
-| Theme | Representative Repositories |
+| Theme | Representative repositories |
 |---|---|
 | Robust localization | SHIELD-VIO, Adaptive Multi-Modal SLAM |
 | Risk-aware navigation | DynNav, Uncertainty-Aware Navigation |
@@ -70,21 +70,20 @@ A Next.js, React, TypeScript, and Tailwind CSS academic portfolio website presen
 
 ## Current Focus
 
-I am currently organizing my GitHub projects into a coherent research portfolio suitable for graduate research applications, with emphasis on:
-
 - uncertainty-aware navigation,
-- self-healing visual-inertial localization,
+- reliability monitoring for visual-inertial localization,
 - adaptive SLAM and sensor fusion,
 - intelligent intersection safety,
 - trajectory prediction for vulnerable road users,
-- reproducible research code and academic documentation.
+- reproducible research code and technical documentation.
 
 ## Contact
 
 - GitHub: [@panagiotagrosdouli](https://github.com/panagiotagrosdouli)
 - Email: panagros1@ee.duth.gr
-- Linkdein:https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
-- Reacher Gate: https://www.researchgate.net/profile/Panagiota-Grosdouli?ev=hdr_xprf
+- LinkedIn: https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
+- ResearchGate: https://www.researchgate.net/profile/Panagiota-Grosdouli?ev=hdr_xprf
+
 ---
 
 This profile is updated as my academic and engineering projects evolve.
