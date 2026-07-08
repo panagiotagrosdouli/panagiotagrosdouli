@@ -4,7 +4,7 @@ Electrical and Computer Engineering student at Democritus University of Thrace, 
 
 My work explores how autonomous systems can perceive uncertain environments, estimate risk, diagnose failure modes, and make safer decisions in robotics, smart transportation, and human-centered AI applications.
 
-## PhD-Oriented Research Direction
+
 
 I am building a research portfolio around **robust, uncertainty-aware autonomy for robots operating in complex and partially observed environments**.
 
@@ -82,8 +82,9 @@ I am currently organizing my GitHub projects into a coherent research portfolio 
 ## Contact
 
 - GitHub: [@panagiotagrosdouli](https://github.com/panagiotagrosdouli)
-- Email: p.g2a15@gmail.com
-
+- Email: panagros1@ee.duth.gr
+- Linkdein:https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
+- Reacher Gate: https://www.researchgate.net/profile/Panagiota-Grosdouli?ev=hdr_xprf
 ---
 
 This profile is updated as my academic and engineering projects evolve.
