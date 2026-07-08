@@ -79,10 +79,13 @@ A Next.js, React, TypeScript, and Tailwind CSS academic portfolio website presen
 
 ## Contact
 
-- GitHub: [@panagiotagrosdouli](https://github.com/panagiotagrosdouli)
+- Research Portfolio:https://panagiota-research-portfolio.vercel.app/ 
+-GitHub: [@panagiotagrosdouli](https://github.com/panagiotagrosdouli)
 - Email: panagros1@ee.duth.gr
 - LinkedIn: https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
 - ResearchGate: https://www.researchgate.net/profile/Panagiota-Grosdouli?ev=hdr_xprf
+  
+
 
 ---
 
