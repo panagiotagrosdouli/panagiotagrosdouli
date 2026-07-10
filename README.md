@@ -1,93 +1,177 @@
 # Panagiota Grosdouli
 
-Electrical and Computer Engineering student at Democritus University of Thrace, working on robotics, computer vision, autonomous systems, uncertainty-aware perception, and safety-aware intelligent mobility.
-
-My work focuses on how autonomous systems can perceive uncertain environments, estimate risk, monitor their own reliability, and make safer decisions in robotics and intelligent transportation settings.
-
-## Research Direction
-
-I am building a research portfolio around **robust, uncertainty-aware autonomy for robots operating in complex and partially observed environments**.
-
-A question connecting several of my projects is:
-
-> How can autonomous robots improve reliability under uncertainty by combining perception, state estimation, risk-aware planning, failure diagnosis, and safety monitoring?
-
-This direction connects mobile robot navigation, visual-inertial odometry, SLAM, sensor fusion, vulnerable road user safety, and intelligent mobility systems.
-
-## Core Research Areas
-
-- Robotic vision and perception
-- Visual-inertial odometry and SLAM
-- Uncertainty-aware sensor fusion
-- Risk-sensitive motion planning
-- Failure diagnosis and reliability monitoring
-- Autonomous navigation and replanning
-- Multi-agent trajectory prediction
-- Safety-aware AI for vulnerable road users
-
-## Selected Robotics and AI Research Projects
-
-### [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)
-Self-Healing Intelligent Estimation and Localization for Degradation-aware Visual-Inertial Odometry.  
-A research prototype studying whether VIO systems can monitor degradation, infer likely failure causes, and select recovery actions before localization failure.
-
-### [Adaptive Multi-Modal SLAM with Uncertainty-Aware Sensor Fusion](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)
-Research framework for adaptive SLAM under perceptual degradation, combining visual, inertial, and event-based sensing with uncertainty-aware fusion and robustness evaluation.
-
-### [DynNav: Dynamic Navigation Rerouting in Unknown Environments](https://github.com/panagiotagrosdouli/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)
-Navigation research framework for uncertainty-aware, risk-sensitive planning in previously unmapped environments. The project focuses on belief-aware planning, risk reasoning, returnability constraints, and safety monitoring for mobile robots.
-
-### [Uncertainty-Aware Navigation](https://github.com/panagiotagrosdouli/uncertainty-aware-navigation)
-Focused research repository on risk-aware mobile robot navigation under map uncertainty, designed around reproducible experiments, baseline comparisons, and safety-relevant metrics.
-
-### [SafeCrossAI](https://github.com/panagiotagrosdouli/SafeCrossAI)
-AI-powered research platform for intelligent urban intersections, focused on vulnerable road user safety, trajectory prediction, risk assessment, and cooperative perception for connected and autonomous mobility.
-
-### [OpenUWOC-AI](https://github.com/panagiotagrosdouli/OpenUWOC-AI)
-Research framework for AI-powered underwater wireless optical communications, digital twins, and intelligent communication-system optimization.
-
-### [Personal Portfolio](https://github.com/panagiotagrosdouli/personalportfolio)
-A Next.js, React, TypeScript, and Tailwind CSS academic portfolio website presenting research, projects, CV, and contact information.
-
-## Research Portfolio Map
-
-| Theme | Representative repositories |
-|---|---|
-| Robust localization | SHIELD-VIO, Adaptive Multi-Modal SLAM |
-| Risk-aware navigation | DynNav, Uncertainty-Aware Navigation |
-| Intelligent mobility safety | SafeCrossAI |
-| Perception and vision | computer vision, segmentation, visual scene understanding projects |
-| AI systems beyond robotics | OpenUWOC-AI, portfolio and applied AI projects |
-
-## Technical Stack
-
-**Languages:** Python, Java, TypeScript, JavaScript, C/C++  
-**AI / ML:** PyTorch, NumPy, pandas, scikit-learn, OpenCV  
-**Robotics / Simulation:** ROS 2, Gazebo, CARLA, SUMO, SLAM/VIO concepts  
-**Research Tools:** reproducible experiments, benchmark design, evaluation metrics, technical documentation  
-**Web / Apps:** React, Next.js, Tailwind CSS, FastAPI, Streamlit  
-**Tools:** Git, GitHub, Docker, Linux, Jupyter, VS Code
-
-## Current Focus
-
-- uncertainty-aware navigation,
-- reliability monitoring for visual-inertial localization,
-- adaptive SLAM and sensor fusion,
-- intelligent intersection safety,
-- trajectory prediction for vulnerable road users,
-- reproducible research code and technical documentation.
-
-## Contact
-
-
-- Email: panagros1@ee.duth.gr
-- LinkedIn: https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
-- Research Portfolio:https://panagiota-research-portfolio.vercel.app/ 
-- ResearchGate: https://www.researchgate.net/profile/Panagiota-Grosdouli?ev=hdr_xprf
-- GitHub: [@panagiotagrosdouli](https://github.com/panagiotagrosdouli)
-  
-
+Electrical and Computer Engineering Student
+Democritus University of Thrace (DUTH)
 
 ---
 
-This profile is updated as my academic and engineering projects evolve.
+## Research Interests
+
+My research focuses on the development of **reliable autonomous robotic systems** capable of operating safely under uncertainty.
+
+I am interested in the intersection of
+
+* Robot Perception
+* Visual-Inertial Odometry (VIO)
+* SLAM
+* Sensor Fusion
+* Motion Planning
+* Probabilistic Robotics
+* Runtime Monitoring
+* Safety-Critical AI
+* Autonomous Navigation
+
+with particular emphasis on how uncertainty should be represented, propagated, and incorporated into autonomous decision-making.
+
+---
+
+## Research Vision
+
+Autonomous robots increasingly operate in environments where sensing is incomplete, dynamic, and inherently uncertain. While modern perception systems provide increasingly accurate estimates, reliable autonomy requires more than accurate predictions.
+
+My long-term research objective is to develop robotic systems capable of **reasoning about the reliability of their own perception**, estimating operational risk, and adapting their behaviour before failures occur.
+
+More specifically, I am interested in questions such as:
+
+* How can uncertainty be propagated through the entire robotic pipeline rather than treated only at the perception level?
+* How should autonomous systems evaluate the reliability of their own internal state?
+* How can planning algorithms explicitly balance efficiency, safety, recoverability, and uncertainty?
+* How should runtime monitoring interact with localization and planning to prevent catastrophic failures?
+
+These questions motivate the research direction connecting all of my current projects.
+
+---
+
+## Current Research Projects
+
+### DynNav — Dynamic Navigation in Unknown Environments
+
+Research framework investigating uncertainty-aware and risk-sensitive navigation in partially observed environments.
+
+Current research topics include
+
+* probabilistic environment representation
+* uncertainty-aware path planning
+* runtime replanning
+* recoverability-aware navigation
+* safety supervision
+* reproducible experimental evaluation
+
+---
+
+### SHIELD-VIO
+
+Self-Healing Intelligent Estimation and Localization for Degradation-aware Visual-Inertial Odometry.
+
+Current research directions include
+
+* localization reliability estimation
+* failure diagnosis
+* adaptive recovery strategies
+* uncertainty-aware state estimation
+* runtime health monitoring
+
+---
+
+### Adaptive Multi-Modal SLAM
+
+Research framework exploring adaptive SLAM under perceptual degradation using multiple sensing modalities.
+
+Topics include
+
+* visual-inertial fusion
+* event-camera integration
+* adaptive sensor fusion
+* uncertainty estimation
+* robust localization
+
+---
+
+### SafeCrossAI
+
+Research platform studying intelligent transportation safety through
+
+* trajectory prediction
+* vulnerable road user modelling
+* cooperative perception
+* collision risk estimation
+* decision support for intelligent intersections
+
+---
+
+### OpenUWOC-AI
+
+Research on artificial intelligence methods for underwater wireless optical communication systems, digital twins, and adaptive communication optimization.
+
+---
+
+## Research Philosophy
+
+I believe that autonomous systems should not only estimate the external world but also continuously evaluate the confidence of their own internal representations.
+
+Rather than treating perception, localization, planning, and safety as isolated components, I am interested in architectures that integrate these processes into a coherent probabilistic decision-making framework.
+
+---
+
+## Technical Background
+
+### Robotics
+
+* ROS 2
+* Gazebo
+* CARLA
+* SUMO
+
+### Machine Learning
+
+* PyTorch
+* NumPy
+* OpenCV
+* scikit-learn
+
+### Programming
+
+* Python
+* C/C++
+* Java
+* TypeScript
+
+### Research Practices
+
+* Reproducible experiments
+* Benchmark design
+* Scientific software engineering
+* Technical documentation
+* Continuous integration
+
+---
+
+## Long-Term Research Goals
+
+My objective is to pursue doctoral research in robotics and autonomous systems, focusing on uncertainty-aware perception, reliable localization, risk-sensitive planning, and runtime safety for intelligent robotic systems.
+
+I am particularly interested in research groups working on probabilistic robotics, robot learning, autonomous navigation, SLAM, and trustworthy AI for robotics.
+
+---
+
+## Contact
+
+**Email**
+
+[panagros1@ee.duth.gr](mailto:panagros1@ee.duth.gr)
+
+**LinkedIn**
+
+https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/
+
+**Research Portfolio**
+
+https://panagiota-research-portfolio.vercel.app/
+
+**ResearchGate**
+
+https://www.researchgate.net/profile/Panagiota-Grosdouli
+
+**GitHub**
+
+https://github.com/panagiotagrosdouli
