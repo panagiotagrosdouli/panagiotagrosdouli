@@ -1,6 +1,6 @@
 # Panagiota Grosdouli
 
-Electrical and Computer Engineering Student
+Electrical and Computer Engineering Student  
 Democritus University of Thrace (DUTH)
 
 ---
@@ -44,7 +44,7 @@ These questions motivate the research direction connecting all of my current pro
 
 ## Current Research Projects
 
-### DynNav — Dynamic Navigation in Unknown Environments
+### [DynNav — Dynamic Navigation in Unknown Environments](https://github.com/panagiotagrosdouli/DynNav-Dynamic-Navigation-Rerouting-in-Unknown-Environments)
 
 Research framework investigating uncertainty-aware and risk-sensitive navigation in partially observed environments.
 
@@ -59,7 +59,7 @@ Current research topics include
 
 ---
 
-### SHIELD-VIO
+### [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)
 
 Self-Healing Intelligent Estimation and Localization for Degradation-aware Visual-Inertial Odometry.
 
@@ -73,7 +73,7 @@ Current research directions include
 
 ---
 
-### Adaptive Multi-Modal SLAM
+### [Adaptive Multi-Modal SLAM](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)
 
 Research framework exploring adaptive SLAM under perceptual degradation using multiple sensing modalities.
 
@@ -87,7 +87,7 @@ Topics include
 
 ---
 
-### SafeCrossAI
+### [SafeCrossAI](https://github.com/panagiotagrosdouli/SafeCrossAI)
 
 Research platform studying intelligent transportation safety through
 
@@ -99,7 +99,7 @@ Research platform studying intelligent transportation safety through
 
 ---
 
-### OpenUWOC-AI
+### [OpenUWOC-AI](https://github.com/panagiotagrosdouli/OpenUWOC-AI)
 
 Research on artificial intelligence methods for underwater wireless optical communication systems, digital twins, and adaptive communication optimization.
 
