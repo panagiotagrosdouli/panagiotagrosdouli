@@ -1,73 +1,66 @@
-<div align="center">
 
 # Panagiota Grosdouli
 
-### Robotics · Autonomous Systems · Computer Vision · Safety-Aware AI
+### Robotics · Autonomous Systems · Computer Vision · Safe & Trustworthy AI
+### Robotics · Autonomous Systems · Computer Vision
 
-**Developing reproducible research software for autonomous systems that operate under uncertainty.**
+I develop research software for autonomous systems operating under uncertainty, degraded sensing, and dynamic environments.
+**Currently seeking PhD opportunities in Robotics and AI.**
 
+**🎓 Currently seeking PhD opportunities in Robotics, Autonomous Systems, Computer Vision, and Safe & Trustworthy AI.**
+
+<p>
+  <a href="mailto:panagros1@ee.duth.gr"><img src="https://img.shields.io/badge/Email-panagros1%40ee.duth.gr-0ea5e9?style=flat-square" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/"><img src="https://img.shields.io/badge/LinkedIn-Panagiota%20Grosdouli-2563eb?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://panagiota-research-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Research%20Projects-8b5cf6?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.researchgate.net/profile/Panagiota-Grosdouli"><img src="https://img.shields.io/badge/ResearchGate-Profile-14b8a6?style=flat-square&logo=researchgate" alt="ResearchGate"></a>
+</p>
 [Email](mailto:panagros1@ee.duth.gr) · [LinkedIn](https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/) · [Portfolio](https://panagiota-research-portfolio.vercel.app/) · [ResearchGate](https://www.researchgate.net/profile/Panagiota-Grosdouli)
 
 </div>
 
-## Research focus
+## Research
 
-My work explores how autonomous systems can perceive, predict, plan, and recover when sensor measurements, environment knowledge, and future motion are uncertain. Current interests include:
+My work investigates how autonomous systems can represent uncertainty and convert it into safer, interpretable decisions. I am particularly interested in connecting perception, state estimation, prediction, planning, and runtime supervision within reliable robotic systems.
 
-- risk- and uncertainty-aware robot navigation;
-- visual–inertial estimation and failure detection;
-- motion forecasting for vulnerable road users;
-- integrated sensing, communication, and illumination;
-- underwater optical communication;
-- reproducible evaluation and scientifically honest AI.
+**Research interests:** autonomous navigation · robot perception and SLAM · computer vision · uncertainty estimation · multi-agent robotics · safety-aware AI
+I am interested in autonomous systems that can make reliable decisions under uncertainty. My work focuses on autonomous navigation, robot perception, computer vision, and safety-aware AI, with an emphasis on clear and reproducible research software.
 
-## Selected research projects
+## Selected projects
+## Selected work
 
+| Project | Research focus |
+|---|---|
+| **[DynNav](https://github.com/panagiotagrosdouli/DynNav)** | Risk-aware navigation, dynamic replanning, recoverability, and runtime supervision |
+| **[SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)** | Failure-aware visual–inertial estimation and sensor-health monitoring |
+| **[Adaptive Multi-Modal SLAM](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)** | Reliability-aware sensor fusion under changing measurement quality |
+| **[Rare-Event VRU Motion Forecasting](https://github.com/panagiotagrosdouli/rare-event-vru-motion-forecasting)** | Safety-critical trajectory forecasting using Argoverse 2 |
+| **[SafeCrossAI](https://github.com/panagiotagrosdouli/SafeCrossAI)** | Interpretable pedestrian and cyclist interaction-risk prediction |
 ### [DynNav](https://github.com/panagiotagrosdouli/DynNav)
 
-Research platform for dynamic navigation, risk-aware planning, recoverability, online rerouting, and runtime supervision in uncertain environments.
+## Tools
+A research project exploring risk-aware autonomous navigation, dynamic replanning, recoverability, and runtime supervision in uncertain and changing environments.
 
-`Python` · `Planning` · `Risk` · `Streamlit`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros" alt="ROS 2">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+`Python` · `NumPy` · `Streamlit` · `Docker`
 
-### [Argoverse ISCAI Predictive Beam and ADB](https://github.com/panagiotagrosdouli/argoverse-iscaI-predictive-beam-adb)
+## Research practice
+## Interests
 
-Trajectory prediction and uncertainty propagation for adaptive directional beam probing and predictive driving-beam control using Argoverse 2 scenarios.
+I prioritize reproducible experiments and clear evidence boundaries. Simulation studies, dataset experiments, and research prototypes are distinguished from physical-robot validation, production readiness, and formal safety guarantees.
 
-`Motion Forecasting` · `Argoverse 2` · `Uncertainty` · `Beam Management`
+<div align="center">
 
-### [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)
+**Open to PhD positions and research collaborations in robotics and intelligent autonomous systems.**
 
-Failure-aware visual–inertial estimation with consistency diagnostics, degradation detection, uncertainty monitoring, and supervisory recovery logic.
-
-`VIO` · `EKF` · `Failure Detection` · `Runtime Safety`
-
-### [Adaptive Multi-Modal SLAM](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)
-
-Reliability-aware fusion of camera, IMU, LiDAR, and RGB-D measurements under changing sensor quality.
-
-`SLAM` · `Sensor Fusion` · `Consistency` · `Robotics`
-
-### [Rare-Event VRU Motion Forecasting](https://github.com/panagiotagrosdouli/rare-event-vru-motion-forecasting)
-
-Tail-aware motion-forecasting research focused on rare and safety-relevant vulnerable-road-user behavior.
-
-`Trajectory Prediction` · `Rare Events` · `VRU Safety` · `Evaluation`
-
-### [OpenUWOC-AI](https://github.com/panagiotagrosdouli/OpenUWOC-AI)
-
-Simulation-first research framework for underwater optical wireless communication, classical receiver baselines, synthetic datasets, and data-driven link models.
-
-`UWOC` · `Communication Systems` · `Simulation` · `Machine Learning`
-
-## Research principles
-
-- **Reproducibility:** deterministic configurations, tests, metrics, and generated artifacts.
-- **Transparent evidence:** conceptual, synthetic, dataset, simulation, ROS 2, and hardware results are distinguished explicitly.
-- **Responsible claims:** prototypes are not presented as production systems, certified safety mechanisms, or formal guarantees.
-- **Interpretable evaluation:** average performance is reported together with uncertainty, failure cases, and limitations.
-
-## Current direction
-
-I am consolidating these projects into a focused research programme on dependable autonomous systems, with particular emphasis on uncertainty-aware navigation, failure prediction, and safety-oriented decision support.
-
-**Open to PhD and research collaboration opportunities in Robotics and AI.**
+</div>
+Autonomous navigation · Robot perception · Computer vision · Uncertainty-aware decision-making · Safe AI
