@@ -2,9 +2,11 @@
 
 # Panagiota Grosdouli
 
-### Robotics · Autonomous Navigation · Uncertainty-Aware AI
+### Robotics · Autonomous Systems · Computer Vision · Safe & Trustworthy AI
 
-I build research software for autonomous systems operating under uncertainty, degraded sensing, and dynamic environments.
+I develop research software for autonomous systems operating under uncertainty, degraded sensing, and dynamic environments.
+
+**🎓 Currently seeking PhD opportunities in Robotics, Autonomous Systems, Computer Vision, and Safe & Trustworthy AI.**
 
 <p>
   <a href="mailto:panagros1@ee.duth.gr"><img src="https://img.shields.io/badge/Email-panagros1%40ee.duth.gr-0ea5e9?style=flat-square" alt="Email"></a>
@@ -15,70 +17,41 @@ I build research software for autonomous systems operating under uncertainty, de
 
 </div>
 
-## About me
+## Research
 
-My work explores how autonomous systems can represent uncertainty and use it to make safer, more interpretable decisions. I am particularly interested in connecting perception, state estimation, prediction, planning, and runtime safety rather than treating them as isolated components.
+My work investigates how autonomous systems can represent uncertainty and convert it into safer, interpretable decisions. I am particularly interested in connecting perception, state estimation, prediction, planning, and runtime supervision within reliable robotic systems.
 
-Current research themes include:
-
-- risk-aware navigation and dynamic replanning
-- visual–inertial estimation and multi-modal SLAM
-- uncertainty calibration and sensor-health monitoring
-- trajectory forecasting for vulnerable road users
-- runtime supervision, recovery, and safe stopping
-- multi-robot coordination under communication constraints
+**Research interests:** autonomous navigation · robot perception and SLAM · computer vision · uncertainty estimation · multi-agent robotics · safety-aware AI
 
 ## Selected projects
 
-### [DynNav](https://github.com/panagiotagrosdouli/DynNav)
+| Project | Research focus |
+|---|---|
+| **[DynNav](https://github.com/panagiotagrosdouli/DynNav)** | Risk-aware navigation, dynamic replanning, recoverability, and runtime supervision |
+| **[SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)** | Failure-aware visual–inertial estimation and sensor-health monitoring |
+| **[Adaptive Multi-Modal SLAM](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)** | Reliability-aware sensor fusion under changing measurement quality |
+| **[Rare-Event VRU Motion Forecasting](https://github.com/panagiotagrosdouli/rare-event-vru-motion-forecasting)** | Safety-critical trajectory forecasting using Argoverse 2 |
+| **[SafeCrossAI](https://github.com/panagiotagrosdouli/SafeCrossAI)** | Interpretable pedestrian and cyclist interaction-risk prediction |
 
-A modular research laboratory for autonomous navigation under uncertainty. It includes risk-aware planning, dynamic replanning, recoverability analysis, runtime supervision, and multi-robot experiments.
-
-`Python` · `Streamlit` · `NumPy` · `Docker` · `GitHub Actions`
-
-### [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO)
-
-A research prototype for visual–inertial estimator introspection, failure prediction, calibration, domain-shift monitoring, and protective navigation actions.
-
-`Python` · `OpenCV` · `NumPy` · `scikit-learn`
-
-### [Adaptive Multi-Modal SLAM](https://github.com/panagiotagrosdouli/Adaptive-Multi-Modal-SLAM-with-Uncertainty-Aware-Sensor-Fusion)
-
-Reliability-aware fusion of camera, IMU, LiDAR, and RGB-D measurements using adaptive covariance and consistency diagnostics.
-
-`Python` · `NumPy` · `YAML`
-
-### [Rare-Event VRU Motion Forecasting](https://github.com/panagiotagrosdouli/rare-event-vru-motion-forecasting)
-
-Trajectory forecasting focused on rare and safety-critical pedestrian, cyclist, and motorcyclist behavior using Argoverse 2.
-
-`Python` · `PyTorch` · `Argoverse 2`
-
-### [SafeCrossAI](https://github.com/panagiotagrosdouli/SafeCrossAI)
-
-Interpretable vulnerable-road-user trajectory prediction with time-to-collision and closest-point-of-approach risk reasoning.
-
-`Python` · `NumPy`
-
-## Technical stack
+## Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros" alt="ROS 2">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" alt="NumPy">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros" alt="ROS 2">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## Research approach
+## Research practice
 
-I aim to keep experimental evidence explicit. Simulation results, dataset studies, and research prototypes are presented separately from physical-robot validation, production readiness, and formal safety guarantees.
+I prioritize reproducible experiments and clear evidence boundaries. Simulation studies, dataset experiments, and research prototypes are distinguished from physical-robot validation, production readiness, and formal safety guarantees.
 
 <div align="center">
 
-**Open to research collaboration in robotics, autonomous systems, and safety-aware AI.**
+**Open to PhD positions and research collaborations in robotics and intelligent autonomous systems.**
 
 </div>
