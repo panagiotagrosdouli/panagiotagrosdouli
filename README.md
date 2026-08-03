@@ -6,7 +6,7 @@
 
 **Developing reproducible methods for autonomous systems that operate reliably under uncertainty.**
 
-[Email](mailto:panagros1@ee.duth.gr) · [LinkedIn](https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/) · [Research Portfolio](https://panagiota-research-portfolio.vercel.app/) · [ResearchGate](https://www.researchgate.net/profile/Panagiota-Grosdouli)
+[Email](mailto:panagros1@ee.duth.gr) · [LinkedIn](https://www.linkedin.com/in/panagiota-grosdouli-b468b0201/) · [Research Portfolio](https://panagiota-research-portfolio.vercel.app/) · [ResearchGate](https://www.researchgate.net/profile/Panagiota-Grosdouli) · [My Books](https://ta-vivlia-mou.p-g2a15.chatgpt.site/)
 
 </div>
 
