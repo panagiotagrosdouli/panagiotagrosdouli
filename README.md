@@ -1,14 +1,14 @@
 # Panagiota Grosdouli
 
-**Electrical & Computer Engineering Graduate · Robotics · Computer Vision · Reliable Autonomous Systems**
+**Electrical & Computer Engineer · AI & Machine Learning · Software Engineering · Robotics**
 
-I am an Electrical and Computer Engineering graduate of Democritus University of Thrace (five-year Diploma, 2026). My research interests lie in robust robotic perception, visual-inertial localization, state estimation, sensor fusion, and risk-aware autonomous navigation.
+I am an Electrical and Computer Engineering graduate of Democritus University of Thrace (five-year Diploma, 2026). I build AI applications, research software and robotics prototypes. My interests span machine learning, computer vision, software engineering, autonomous systems and applied R&D.
 
-**Research question:** *How can an autonomous robot recognize when its perception or localization is no longer trustworthy—and respond before that uncertainty becomes a safety-critical failure?*
+I enjoy moving from an idea to an implementation: understanding the problem, building useful software, testing assumptions and improving reliability.
 
 [Research portfolio](https://panagiota-research-portfolio.vercel.app/) · [Academic CV](https://panagiota-research-portfolio.vercel.app/cv/) · [Research projects](https://panagiota-research-portfolio.vercel.app/projects) · [Contact](mailto:p.g2a15@gmail.com)
 
-## Selected work
+## Selected projects
 
 | Project | Research focus | Evidence and status |
 | --- | --- | --- |
@@ -17,15 +17,15 @@ I am an Electrical and Computer Engineering graduate of Democritus University of
 | [Diploma thesis](https://panagiota-research-portfolio.vercel.app/projects/safecrossai) | Trajectory prediction of vulnerable road users at smart intersections | Academic thesis, 2026 |
 | [EYLO](https://eyloai.vercel.app/) | Source-aware AI research discovery, scholarly evidence management, and research workflows | Independent research software product; not a peer-reviewed contribution |
 
-## Research interests
+## Areas of interest
 
 - **Robotic perception:** VIO, SLAM, multi-modal sensing, estimator consistency and failure detection
 - **Autonomy:** uncertainty-aware decision making, online replanning and recoverability
 - **Machine learning:** multimodal prediction, evaluation methodology and uncertainty
 - **Research engineering:** reproducible experiments, transparent baselines and clearly reported limitations
 
-My work emphasizes distinguishing **implemented methods** from **prototypes, proposed experiments, and validated outcomes**. I am interested in doctoral research at the intersection of perception, learning, and autonomy.
+I am interested in **engineering roles, applied R&D and future doctoral research**. I value reproducible experiments, maintainable software and honest reporting of what a prototype can and cannot do.
 
-> The best autonomy systems should know not only what they estimate, but when their estimates should no longer be trusted.
+> Building intelligent systems means caring about both useful functionality and reliable behavior.
 
 **Email:** p.g2a15@gmail.com
