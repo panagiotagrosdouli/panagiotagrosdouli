@@ -17,6 +17,16 @@ I enjoy moving from an idea to an implementation: understanding the problem, bui
 | [Diploma thesis](https://panagiota-research-portfolio.vercel.app/projects/safecrossai) | Trajectory prediction of vulnerable road users at smart intersections | Academic thesis, 2026 |
 | [EYLO](https://eyloai.vercel.app/) | Source-aware AI research discovery, scholarly evidence management, and research workflows | Independent research software product; not a peer-reviewed contribution |
 
+## Additional engineering work
+
+My second GitHub account, [PanagiotaGr](https://github.com/PanagiotaGr), contains more projects spanning applied ML, sensing and signal processing:
+
+- **[Semiconductor wafer defect classification](https://github.com/PanagiotaGr/wafer-fault-detection-with-ml)** — classical machine learning, CNNs and few-shot learning for wafer map defects.
+- **[PC-FMCW integrated sensing, communication and illumination](https://github.com/PanagiotaGr/ISCAI-PC-FMCW)** — predictive uncertainty for sensing-driven beam control; includes a public technical report.
+- **[Smart intersection research literature tracker](https://github.com/PanagiotaGr/smart-intersection-vru-predictionpapers)** — organized literature tracking for road-user trajectory prediction.
+
+These repositories complement my robotics projects with applied ML, signal processing and reproducible research tooling.
+
 ## Areas of interest
 
 - **Robotic perception:** VIO, SLAM, multi-modal sensing, estimator consistency and failure detection
