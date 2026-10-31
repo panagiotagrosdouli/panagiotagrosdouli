@@ -28,4 +28,4 @@ I am interested in **engineering roles, applied R&D and future doctoral research
 
 > Building intelligent systems means caring about both useful functionality and reliable behavior.
 
-**Email:** p.g2a15@gmail.com
+**Email:** -
