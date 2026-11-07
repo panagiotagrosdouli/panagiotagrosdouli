@@ -8,6 +8,16 @@ I enjoy moving from an idea to an implementation: understanding the problem, bui
 
 [Research portfolio](https://panagiota-research-portfolio.vercel.app/) · [Academic CV](https://panagiota-research-portfolio.vercel.app/cv/) · [Research projects](https://panagiota-research-portfolio.vercel.app/projects) · [Contact](mailto:p.g2a15@gmail.com)
 
+## Featured project — EYLO AI
+
+**EYLO AI · Evidence-centered research workspace**
+
+A research software platform for discovering scholarly literature, tracing source records, exploring researchers, and organizing evidence into structured research projects. Its AI assistant, EYRA, supports analysis while keeping generated suggestions distinct from verified source material.
+
+**[Visit the live EYLO website](https://eyloai.vercel.app/)** · **[Explore the GitHub repository](https://github.com/panagiotagrosdouli/eyloai)**
+
+*Built with React, Vite, Supabase and Vercel. Independent software project; retrieval quality and AI outputs require scientific validation.*
+
 ## Selected projects
 
 | Project | Research focus | Evidence and status |
@@ -15,7 +25,6 @@ I enjoy moving from an idea to an implementation: understanding the problem, bui
 | [SHIELD-VIO](https://github.com/panagiotagrosdouli/SHIELD-VIO) | Visual-inertial estimator health, degradation detection, and protective navigation | Research prototype; synthetic experiments and unit tests; real-world validation pending |
 | [DynNav](https://github.com/panagiotagrosdouli/DynNav) | History-conditioned navigation and preservation of safe-return options under dynamic hazards | Executable planning framework and documented tests; broader statistical validation ongoing |
 | [Diploma thesis](https://panagiota-research-portfolio.vercel.app/projects/safecrossai) | Trajectory prediction of vulnerable road users at smart intersections | Academic thesis, 2026 |
-| [EYLO](https://eyloai.vercel.app/) | Source-aware AI research discovery, scholarly evidence management, and research workflows | Independent research software product; not a peer-reviewed contribution |
 
 ## Additional engineering work
 
